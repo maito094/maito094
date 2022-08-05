@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maito094&layout=compact)](https://github.com/maito094/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maito094&layout=compact&&bg_color=30,1e3363,060b16,38184d,0d1117)](https://github.com/maito094/github-readme-stats)
 
 ![maito094's GitHub stats](https://github-readme-stats.vercel.app/api?username=maito094&theme=radical&show_icons=true)]
 <!--
