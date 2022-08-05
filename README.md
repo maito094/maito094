@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maito094&layout=compact&&bg_color=30,1e3363,060b16,38184d,0d1117)](https://github.com/maito094/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maito094&layout=compact&&text_color=a9fef7&&bg_color=33,1e3363,060b16,38184d,0d1117)](https://github.com/maito094/github-readme-stats)
 
-![maito094's GitHub stats](https://github-readme-stats.vercel.app/api?username=maito094&theme=radical&show_icons=true)]
+![maito094's GitHub stats](https://github-readme-stats.vercel.app/api?username=maito094&theme=radical&show_icons=true)
 <!--
 **maito094/maito094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
